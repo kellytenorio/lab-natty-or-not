@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+A IA em Sinergia com a Saúde: Aplicabilidade Mais Eficaz✨
+ 
+ 📒 Descrição
+Este e-book dispõe o relato sobre a eficácia da IA em meio comercial na área da saúde, uma vez que utilziada em farmácias de manipulação. Conteúdo total em 10 páginas.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+- IA Generativa ChatGPT para elaboração da narração e contextualização.
+- IA Generativa ElevenLabs para narrativa sonora.
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+Fora utlizado o "ChatGPT" para a narração em escrita formal, sobre a aplicação da IA, em sistema de atendimento presente no setor de vendas, em uma farmácia de maniuplação. Uma vez que a mesma é responsável pelo filtro das informações enviadas e solicitadas no primeiro contato.
+Já para a narrativa sonora, utilizou-se o "ElevenLabs" como forma de melhor didática e entendimento sobre a aplicabilidade da IA.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+ 🚀 Resultados
+A leitura parte da acessibilidade para melhor entendimento, na área comercial de uma farmácia de manipulação, no qual o usuário poderá ouvir e ler ao mesmo tempo, ou optar dentre uma das opções.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+O projeto permitiu explorar as possibilidades sobre trazer informações de um assunto pouco conhecido, porém de suma atuação no mercado farmacêutico, forma didática e sólida, através da IA.
